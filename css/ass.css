@@ -14,7 +14,7 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin:0 70px;; 
+    margin:0 70px;
 }
 
 nav a {
@@ -103,7 +103,7 @@ header {
     padding: 5px;
     text-decoration: none;
 }
-.Hobby{
+#Hobby{
     border:2px;
     padding: 10px;
     border-radius: 5px;
