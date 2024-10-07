@@ -9,7 +9,7 @@ nav{
 
 nav ul {
     list-style-type: none;
-    padding: o;
+    padding: 0;
 }
 
 nav ul li {
@@ -46,7 +46,7 @@ header {
         background-color:blanchedalmond;
     color: rgb(25, 22, 22); 
     border: 5px solid black; 
-    padding: 25px;; 
+    padding: 25px;
     margin: 7px; 
     width: 500px;
     text-align:center;
@@ -91,7 +91,7 @@ header {
     }
     .Hobbies ul li img{
         border-radius: 10px;
-        box-shadow: o 4px 8px rgp(0,0,0,0.1);
+        box-shadow: 0 4px 8px rgp(0,0,0,0.1);
         width: 300px;
         height: auto;
     }
