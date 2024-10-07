@@ -80,7 +80,7 @@ header {
         justify-content: space-around;
 
     }
-    ,.Hobbies ul li{
+    .Hobbies ul li{
         position: relative;
         margin: 25px;
 
@@ -103,7 +103,7 @@ header {
     padding: 5px;
     text-decoration: none;
 }
-#Hobby{
+.Hobby{
     border:2px;
     padding: 10px;
     border-radius: 5px;
